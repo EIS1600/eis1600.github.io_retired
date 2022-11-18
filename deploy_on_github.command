@@ -4,6 +4,7 @@ mv public docs
 
 git add .
 git commit
+git push
 
 #mkdir -p "$HOME/Library/Application Support/org.kde.syntax-highlighting/syntax"
 #cp ./SCHEME_FILES/OpenITImARkdown.xml "$HOME/Library/Application Support/org.kde.syntax-highlighting/syntax"
