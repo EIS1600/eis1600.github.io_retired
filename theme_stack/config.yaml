@@ -214,11 +214,23 @@ menu:
           params:
               icon: brand-github
 
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/eis1600project/
+          params:
+              icon: brand-instagram
+
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/eis1600project
           params:
               icon: brand-twitter
+
+        - identifier: facebook
+          name: Facebook
+          url: https://www.facebook.com/people/EIS1600Project/100087679731197/
+          params:
+              icon: brand-facebook
 
 related:
     includeNewer: true
