@@ -1,7 +1,9 @@
 #!/bin/bash
-cd -- "$(dirname "$BASH_SOURCE")" 
-mv public docs
+cd -- "$(dirname "$BASH_SOURCE")"
+cd theme_stack
+mv public ../docs
 
+cd ..
 git add .
 git commit
 git push

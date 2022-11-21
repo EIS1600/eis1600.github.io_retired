@@ -1,9 +1,12 @@
 #!/bin/bash
-cd -- "$(dirname "$BASH_SOURCE")" 
-mv public docs
+cd -- "$(dirname "$BASH_SOURCE")"
+cd theme_stack
+mv public ../docs
 
+cd ..
 git add .
 git commit
+git push
 
 #mkdir -p "$HOME/Library/Application Support/org.kde.syntax-highlighting/syntax"
 #cp ./SCHEME_FILES/OpenITImARkdown.xml "$HOME/Library/Application Support/org.kde.syntax-highlighting/syntax"
