@@ -1,29 +1,40 @@
-baseurl: https://example.com
+baseurl: https://eis1600.github.io
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
-title: Example Site
+title: Evolution of Islamic Societies (c. 600-1600)
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: "The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History"
         description: Example description
         weight: 1
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        description: 演示说明
+    de:
+        languageName: Deutsch
+        title: "Die Entwicklung islamischer Gesellschaften (ca. 600–1600): algorithmische Analyse zur Sozialgeschichte"
+        description: Example description
         weight: 2
+    ru:
+        languageName: Русский
+        title: "Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): алгоритмический  анализ социальной истории"
+        description: Example description
+        weight: 3
     ar:
         languageName: عربي
         languagedirection: rtl
-        title: موقع تجريبي
+        title: "تطور المجتمعات الإسلانية (٦٠٠ - ١٦٠٠ مـ): من التحليل الحسابي إلى التاريخ الاجتماعي"
+        description:
+        weight: 4
+    fa:
+        languageName: فارسى
+        languagedirection: rtl
+        title: "تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ مـ): از تحلیل الگوریتمی تا تاریخ اجتماعی"
         description: وصف تجريبي
-        weight: 3
+        weight: 5
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: 
 
 # GA Tracking ID
 googleAnalytics:
@@ -48,27 +59,27 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        published: Jan 02, 2022
+        lastUpdated: Jan 02, 2022 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: false
+        subtitle: 
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/eis1600_SMALL_mix_blue_white.png
 
     article:
         math: false
         toc: true
         readingTime: true
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -199,13 +210,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/EIS1600/
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/eis1600project
           params:
               icon: brand-twitter
 
