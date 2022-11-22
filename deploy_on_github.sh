@@ -5,7 +5,7 @@ mv public ../docs
 
 cd ..
 git add .
-git commit
+git commit -m "website update"
 git push
 
 #mkdir -p "$HOME/Library/Application Support/org.kde.syntax-highlighting/syntax"

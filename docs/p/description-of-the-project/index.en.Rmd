@@ -1,19 +1,17 @@
 ---
 title: Description of the Project
-author: MAxim Romanov
+author: Maxim Romanov
 date: '2022-11-21'
 slug: description-of-the-project
 categories: ["general"]
 tags: ["description"]
-description: "In the course of the first millennium of its history (c. 600–1600 CE), Islamic society evolved from a simple tribal polity into a multifaceted social, cultural, and political entity that stretched from Spain and North Africa in the West to Central Asia and India in the East..."
+description: "The Emmy-Noether Project undertakes an innovative study of “The Evolution of Islamic Societies (c. 600-1600 CE)” [EIS1600] through the computational analysis of these historical texts, which—for the first time—are treated holistically as a unified corpus of historical information."
 image: bg_map.png
 math: ~
 license: no
 hidden: no
 comments: yes
 ---
-
-{{< youtube ZJthWmvUzzc >}}
 
 In the course of the first millennium of its history (c. 600–1600 CE), Islamic society evolved from a simple tribal polity into a multifaceted social, cultural, and political entity that stretched from Spain and North Africa in the West to Central Asia and India in the East. Arabic chronicles and biographical collections preserve a plethora of information on long-term environmental and societal processes that shaped and molded Islamic society over this period. Numerous and extensive, these written texts are the wealthiest “mine” of information and are particularly valuable for the period before the 15th century, for which exceptionally few documents and archives are available. The Emmy-Noether Project undertakes an innovative study of “The Evolution of Islamic Societies (c. 600-1600 CE)” [EIS1600] through the computational analysis of these historical texts, which—for the first time—are treated holistically as a unified corpus of historical information (c. 300 titles; 100 million words; c. 400,000 biographical records).
 
