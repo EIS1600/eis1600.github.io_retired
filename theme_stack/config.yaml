@@ -8,7 +8,7 @@ languages:
     en:
         languageName: English
         title: "The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History"
-        description: Testing
+        description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         weight: 1
     de:
         languageName: Deutsch
@@ -17,14 +17,14 @@ languages:
         weight: 2
     ru:
         languageName: Русский
-        title: "Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): алгоритмический  анализ социальной истории"
-        description: Example description
+        title: "Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): через алгоритмический анализ к социальной истории"
+        description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         weight: 3
     ar:
         languageName: عربي
         languagedirection: rtl
         title: "تطور المجتمعات الإسلامية (٦٠٠ - ١٦٠٠ مـ): من التحليل الحسابي إلى التاريخ الاجتماعي"
-        description:
+        description: وصف تجريبي
         weight: 4
     fa:
         languageName: فارسى
