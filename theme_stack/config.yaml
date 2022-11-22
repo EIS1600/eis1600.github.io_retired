@@ -8,7 +8,7 @@ languages:
     en:
         languageName: English
         title: "The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History"
-        description: Example description
+        description: Testing
         weight: 1
     de:
         languageName: Deutsch
@@ -23,7 +23,7 @@ languages:
     ar:
         languageName: عربي
         languagedirection: rtl
-        title: "تطور المجتمعات الإسلانية (٦٠٠ - ١٦٠٠ مـ): من التحليل الحسابي إلى التاريخ الاجتماعي"
+        title: "تطور المجتمعات الإسلامية (٦٠٠ - ١٦٠٠ مـ): من التحليل الحسابي إلى التاريخ الاجتماعي"
         description:
         weight: 4
     fa:
@@ -34,7 +34,7 @@ languages:
         weight: 5
 
 # Change it to your Disqus shortname before using
-disqusShortname: 
+disqusShortname:
 
 # GA Tracking ID
 googleAnalytics:
@@ -60,15 +60,15 @@ params:
 
     footer:
         since: 2022
-        customText:
+        customText: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • <b>Team</b>: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI<br>"
 
     dateFormat:
-        published: Jan 02, 2022
-        lastUpdated: Jan 02, 2022 15:04 MST
+        published:
+        lastUpdated: January 02, 2020
 
     sidebar:
         emoji: false
-        subtitle: 
+        subtitle: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         avatar:
             enabled: true
             local: true
@@ -134,8 +134,8 @@ params:
 
         # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
         cactus:
-            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-            serverName: "cactus.chat"
+            defaultHomeserverUrl:
+            serverName:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
