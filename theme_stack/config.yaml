@@ -8,6 +8,7 @@ languages:
     en:
         languageName: English
         title: "The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History"
+        description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         weight: 1
         params:
             footer:
@@ -15,7 +16,6 @@ languages:
                 customText: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI<br>"
             sidebar:
                 emoji: ~
-                subtitle: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
                 avatar:
                     enabled: true
                     local: true
@@ -23,14 +23,14 @@ languages:
     de:
         languageName: Deutsch
         title: "Die Entwicklung islamischer Gesellschaften (ca. 600–1600): algorithmische Analyse zur Sozialgeschichte"
+        description: "Emmy Noether Nachwuchsgruppe • DFG • Universität Hamburg • Afrika-Asien Institut • Team • Hamid Reza Hakimi, wiss. Mitarbeiter • Lisa Mischer, wiss. Mitarbeiterin • Tariq Yousef, wiss. Mitarbeiter • Maxim Romanov, Nachwuchsgruppenleiter"
         weight: 2
         params:
             footer:
                 since: 2022
-                customText: "Add the footer text in German<br>"
+                customText: "Emmy Noether Nachwuchsgruppe • DFG • Universität Hamburg • Afrika-Asien Institut • Team • Hamid Reza Hakimi, wiss. Mitarbeiter • Lisa Mischer, wiss. Mitarbeiterin • Tariq Yousef, wiss. Mitarbeiter • Maxim Romanov, Nachwuchsgruppenleiter<br>"
             sidebar:
                 emoji: false
-                subtitle: "Description in German"
                 avatar:
                     enabled: true
                     local: true
@@ -38,14 +38,14 @@ languages:
     ru:
         languageName: Русский
         title: "Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): через алгоритмический анализ к социальной истории"
+        description: "Молодежная исследовательская группа в рамках программы «Эмми Нётер» • Немецкий исследовательский фонд (DFG) • Гамбургский университет • Институт Африки и Азии • Состав • Хамид-Реза Хакими, исследователь-аспирант • Лиза Мишер, исследовательница-аспирантка • Тарик Йусуф, исследователь-специалист по информатике • Максим Романов, руководитель исследовательской группы"
         weight: 3
         params:
             footer:
                 since: 2022
-                customText: "Add the footer text in Russian<br>"
+                customText: "Молодежная исследовательская группа в рамках программы «Эмми Нётер» • Немецкий исследовательский фонд (DFG) • Гамбургский университет • Институт Африки и Азии • Состав • Хамид-Реза Хакими, исследователь-аспирант • Лиза Мишер, исследовательница-аспирантка • Тарик Йусуф, исследователь-специалист по информатике • Максим Романов, руководитель исследовательской группы<br>"
             sidebar:
                 emoji: false
-                subtitle: "Description in Russian"
                 avatar:
                     enabled: true
                     local: true
@@ -54,6 +54,7 @@ languages:
         languageName: عربي
         languagedirection: rtl
         title: "تطور المجتمعات الإسلامية (بين ٦٠٠ و ١٦٠٠ للميلاد): من التحليل الحوسبي إلى التاريخ الاجتماعي"
+        description: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ • معهد آسيا وأفريقا • فريق العمل • حميد رضا حكيمي، باحث دكتوراه • ليزا ميشر، باحثة دكتوراه • طارق يوسف، باحث علوم حاسب • مكسيم رومانوف، الباحث الرئيسي"
         weight: 4
         params:
             footer:
@@ -61,7 +62,6 @@ languages:
                 customText: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ • معهد آسيا وأفريقا • فريق العمل • حميد رضا حكيمي، باحث دكتوراه • ليزا ميشر، باحثة دكتوراه • طارق يوسف، باحث علوم حاسب • مكسيم رومانوف، الباحث الرئيسي<br>"
             sidebar:
                 emoji: false
-                subtitle: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ • معهد آسيا وأفريقا • فريق العمل • حميد رضا حكيمي، باحث دكتوراه • ليزا ميشر، باحثة دكتوراه • طارق يوسف، باحث علوم حاسب • مكسيم رومانوف، الباحث الرئيسي"
                 avatar:
                     enabled: true
                     local: true
@@ -70,6 +70,7 @@ languages:
         languageName: فارسى
         languagedirection: rtl
         title: "تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ م): از تحلیل الگوریتمی تا تاریخ اجتماعی"
+        description: "Description in Persian"
         weight: 5
         params:
             footer:
@@ -77,7 +78,6 @@ languages:
                 customText: "Add the footer text in Persian<br>"
             sidebar:
                 emoji: false
-                subtitle: "Description in Persian"
                 avatar:
                     enabled: true
                     local: true
@@ -111,7 +111,7 @@ params:
 
     footer:
         since: 2022
-        customText: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • <b>Team</b>: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI<br>"
+        customText: ""
 
     dateFormat:
         published:
