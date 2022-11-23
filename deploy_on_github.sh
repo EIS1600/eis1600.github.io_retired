@@ -2,7 +2,7 @@
 cd -- "$(dirname "$BASH_SOURCE")"
 rm -rf docs
 cd theme_stack
-mv public ../docs
+cp public ../docs
 
 cd ..
 git add .
