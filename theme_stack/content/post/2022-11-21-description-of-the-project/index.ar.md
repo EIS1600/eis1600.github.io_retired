@@ -3,7 +3,7 @@ title: وصف قصير للمشروع
 author: Maxim Romanov
 date: '2022-11-21'
 slug: description-of-the-project
-categories: ["عام"]
+categories: []
 tags: ["وصف"]
 description: "The Emmy-Noether Project undertakes an innovative study of “The Evolution of Islamic Societies (c. 600-1600 CE)” [EIS1600] through the computational analysis of these historical texts, which—for the first time—are treated holistically as a unified corpus of historical information."
 image: bg_map.png

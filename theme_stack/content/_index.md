@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    name: Blog
+    name: Latest
     params:
       icon: home
     weight: -100
