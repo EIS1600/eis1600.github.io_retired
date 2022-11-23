@@ -1,10 +1,8 @@
 #!/bin/bash
 cd -- "$(dirname "$BASH_SOURCE")"
-rm -rf docs
-cd theme_stack
-cp public ../docs
+#rm -rf docs
+mv ./theme_stack/public docs
 
-cd ..
 git add .
 git commit -m "website update"
 git push
