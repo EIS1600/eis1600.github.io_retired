@@ -17,13 +17,19 @@ languages:
         weight: 2
         params:
           description: "Example description"
+          fontbody: "Libre Baskerville"
           footer:
             customText: "ASD"
+          sidebar:
+            avatar:
+              src: img/eis1600_SMALL_mix_red_white.png
     ru:
         languageName: Русский
         title: "Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): через алгоритмический анализ к социальной истории"
-        description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         weight: 3
+        params:
+          description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
+          fontbody: "Georgia"
     ar:
         languageName: عربي
         languagedirection: rtl
@@ -31,6 +37,7 @@ languages:
         weight: 4
         params:
           description: وصف تجريبي
+          fontbody: "Amiri"
     fa:
         languageName: فارسى
         languagedirection: rtl
