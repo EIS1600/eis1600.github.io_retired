@@ -8,30 +8,81 @@ languages:
     en:
         languageName: English
         title: "The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History"
-        description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         weight: 1
+        params:
+            footer:
+                since: 2022
+                customText: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI<br>"
+            sidebar:
+                emoji: ~
+                subtitle: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_blue_white.png
     de:
         languageName: Deutsch
         title: "Die Entwicklung islamischer Gesellschaften (ca. 600–1600): algorithmische Analyse zur Sozialgeschichte"
-        description: Example description
         weight: 2
+        params:
+            footer:
+                since: 2022
+                customText: "Add the footer text in German<br>"
+            sidebar:
+                emoji: false
+                subtitle: "Description in German"
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_red_white.png
     ru:
         languageName: Русский
         title: "Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): через алгоритмический анализ к социальной истории"
-        description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         weight: 3
+        params:
+            footer:
+                since: 2022
+                customText: "Add the footer text in Russian<br>"
+            sidebar:
+                emoji: false
+                subtitle: "Description in Russian"
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_grey_white.png
     ar:
         languageName: عربي
         languagedirection: rtl
-        title: "تطور المجتمعات الإسلامية (٦٠٠ - ١٦٠٠ مـ): من التحليل الحسابي إلى التاريخ الاجتماعي"
-        description: وصف تجريبي
+        title: "تطور المجتمعات الإسلامية (بين ٦٠٠ و ١٦٠٠ للميلاد): من التحليل الحوسبي إلى التاريخ الاجتماعي"
         weight: 4
+        params:
+            footer:
+                since: 2022
+                customText: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ • معهد آسيا وأفريقا • فريق العمل • حميد رضا حكيمي، باحث دكتوراه • ليزا ميشر، باحثة دكتوراه • طارق يوسف، باحث علوم حاسب • مكسيم رومانوف، الباحث الرئيسي<br>"
+            sidebar:
+                emoji: false
+                subtitle: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ • معهد آسيا وأفريقا • فريق العمل • حميد رضا حكيمي، باحث دكتوراه • ليزا ميشر، باحثة دكتوراه • طارق يوسف، باحث علوم حاسب • مكسيم رومانوف، الباحث الرئيسي"
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_green_white.png
     fa:
         languageName: فارسى
         languagedirection: rtl
-        title: "تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ مـ): از تحلیل الگوریتمی تا تاریخ اجتماعی"
-        description: وصف تجريبي
+        title: "تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ م): از تحلیل الگوریتمی تا تاریخ اجتماعی"
         weight: 5
+        params:
+            footer:
+                since: 2022
+                customText: "Add the footer text in Persian<br>"
+            sidebar:
+                emoji: false
+                subtitle: "Description in Persian"
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_turquoise_white.png
+
 
 # Change it to your Disqus shortname before using
 disqusShortname:
