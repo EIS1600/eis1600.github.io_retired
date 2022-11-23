@@ -7,5 +7,5 @@ menu:
       icon: archives
     weight: -90
 slug: toc
-title: Оглавление
+title: Содержание
 ---

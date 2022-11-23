@@ -3,7 +3,7 @@ title: Project Beschreibung
 author: Maxim Romanov, Tr. Lisa Mischer
 date: '2022-11-21'
 slug: description-of-the-project
-categories: ["Allgemeines"]
+categories: []
 tags: ["Beschreibung"]
 description: "Das Emmy-Noether-Projekt wird in einer innovative Studie über „Die Evolution islamischer Gesellschaften (ca. 600-1600 n. Chr.)“ [EIS1600] diese historischen Texte, die erstmals ganzheitlich als ein gesammelter Korpus historischer Informationen behandelt werden."
 image: bg_map.png
