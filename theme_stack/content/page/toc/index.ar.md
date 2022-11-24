@@ -7,7 +7,7 @@ menu:
       icon: archives
     weight: -90
 slug: toc
-title: محتويات
+title: المحتويات
 ---
 
 - جدول المحتويات

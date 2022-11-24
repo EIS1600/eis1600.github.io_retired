@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    name: صفحة رئيسية
+    name: الرئيسية
     params:
       icon: home
     weight: -100
