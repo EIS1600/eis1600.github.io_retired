@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ م): از تحلیل الگوریتمی تا تاریخ اجتماعی</title>
+        <title>Pages on تکامل جوامع اسلامی (۱۶۰۰-۶۰۰ م)</title>
         <link>https://eis1600.github.io/fa/page/</link>
-        <description>Recent content in Pages on تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ م): از تحلیل الگوریتمی تا تاریخ اجتماعی</description>
+        <description>Recent content in Pages on تکامل جوامع اسلامی (۱۶۰۰-۶۰۰ م)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eis1600.github.io/fa/page/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -28,21 +28,21 @@
         <description></description>
         </item>
         <item>
-        <title>آزمایشگاه</title>
-        <link>https://eis1600.github.io/fa/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://eis1600.github.io/fa/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87/</guid>
-        <description>&lt;p&gt;پیوندهایی به ابزارها و منابع آزمایشی، که یا در پروژه ما توسعه یافته اند یا از نزدیک با آن مرتبط هستند.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>جستجو</title>
         <link>https://eis1600.github.io/fa/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://eis1600.github.io/fa/search/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>کارگاه ها</title>
+        <link>https://eis1600.github.io/fa/%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D9%87%D8%A7/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://eis1600.github.io/fa/%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D9%87%D8%A7/</guid>
+        <description>&lt;p&gt;پیوندهایی به ابزارها و منابع آزمایشی، که یا در پروژه ما توسعه یافته اند یا از نزدیک با آن مرتبط هستند.&lt;/p&gt;
+</description>
         </item>
         
     </channel>

@@ -86,8 +86,39 @@
                 href="https://eis1600.github.io/de/%C3%BCber-das-projekt/"
                 />
   </url><url>
+    <loc>https://eis1600.github.io/de/categories/allgemeine/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eis1600.github.io/de/tags/beschreibung/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eis1600.github.io/de/categories/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eis1600.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://eis1600.github.io/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://eis1600.github.io/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://eis1600.github.io/fa/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://eis1600.github.io/de/categories/"
+                />
   </url><url>
     <loc>https://eis1600.github.io/de/post/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
@@ -105,6 +136,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://eis1600.github.io/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://eis1600.github.io/fa/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -128,6 +164,11 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://eis1600.github.io/ar/p/description-of-the-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://eis1600.github.io/fa/p/description-of-the-project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -191,33 +232,6 @@
                 href="https://eis1600.github.io/de/toc/"
                 />
   </url><url>
-    <loc>https://eis1600.github.io/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eis1600.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://eis1600.github.io/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://eis1600.github.io/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://eis1600.github.io/fa/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://eis1600.github.io/de/categories/"
-                />
-  </url><url>
     <loc>https://eis1600.github.io/de/laboratorium/</loc>
     <xhtml:link
                 rel="alternate"
@@ -232,12 +246,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://eis1600.github.io/ar/%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/"
+                href="https://eis1600.github.io/ar/%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A8%D8%B1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://eis1600.github.io/fa/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87/"
+                href="https://eis1600.github.io/fa/%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D9%87%D8%A7/"
                 />
     <xhtml:link
                 rel="alternate"

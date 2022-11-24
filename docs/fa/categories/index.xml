@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ م): از تحلیل الگوریتمی تا تاریخ اجتماعی</title>
+        <title>Categories on تکامل جوامع اسلامی (۱۶۰۰-۶۰۰ م)</title>
         <link>https://eis1600.github.io/fa/categories/</link>
-        <description>Recent content in Categories on تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ م): از تحلیل الگوریتمی تا تاریخ اجتماعی</description>
+        <description>Recent content in Categories on تکامل جوامع اسلامی (۱۶۰۰-۶۰۰ م)</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://eis1600.github.io/fa/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eis1600.github.io/fa/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>عمومی</title>
+        <link>https://eis1600.github.io/fa/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/</link>
+        <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://eis1600.github.io/fa/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

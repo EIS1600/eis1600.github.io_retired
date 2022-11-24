@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History</title>
+        <title>Categories on The Evolution of Islamic Societies (c. 600-1600 CE)</title>
         <link>https://eis1600.github.io/categories/</link>
-        <description>Recent content in Categories on The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History</description>
+        <description>Recent content in Categories on The Evolution of Islamic Societies (c. 600-1600 CE)</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://eis1600.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eis1600.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>general</title>
+        <link>https://eis1600.github.io/categories/general/</link>
+        <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://eis1600.github.io/categories/general/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
