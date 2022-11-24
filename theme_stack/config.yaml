@@ -11,6 +11,8 @@ languages:
         weight: 1
         params:
             description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
+            footer:
+                text: ""
             sidebar:
                 emoji: ~
                 avatar:
@@ -24,8 +26,7 @@ languages:
         params:
             description: "Emmy Noether Nachwuchsgruppe • DFG • Universität Hambur, Afrika-Asien Institut • Team: Hamid Reza Hakimi, wiss. Mitarbeiter • Lisa Mischer, wiss. Mitarbeiterin • Tariq Yousef, wiss. Mitarbeiter • Maxim Romanov, Nachwuchsgruppenleiter"
             footer:
-                since: 2022
-                customText: ""
+                text: ""
             sidebar:
                 emoji: false
                 avatar:
@@ -40,7 +41,7 @@ languages:
             description: "Исследовательская группа в рамках программы «Эмми Нётер» • Немецкий исследовательский фонд (DFG) • Гамбургский университет • Институт Африки и Азии • Состав • Хамид-Реза Хакими, исследователь-аспирант • Лиза Мишер, исследовательница-аспирантка • Тарик Йусуф, исследователь-специалист по информатике • Максим Романов, руководитель исследовательской группы"
             footer:
                 since: 2022
-                customText: ""
+                text: ""
             sidebar:
                 emoji: false
                 avatar:
@@ -55,8 +56,7 @@ languages:
         params:
             description: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ • معهد آسيا وأفريقا • فريق العمل • حميد رضا حكيمي، باحث دكتوراه • ليزا ميشر، باحثة دكتوراه • طارق يوسف، باحث علوم حاسب • مكسيم رومانوف، الباحث الرئيسي"
             footer:
-                since: 2022
-                customText: ""
+                text: ""
             sidebar:
                 emoji: false
                 avatar:
@@ -71,8 +71,7 @@ languages:
         params:
             description: "گروه پژوهشی امی-نوتر • بنیاد پژوهشی آلمان • دانشگاه هامبورگ • مؤسسه‌ی آسیا-آفریقا • اعضای تیم • حمیدرضا حکیمی، پژوهشگر دکتری • لیزا میشر، پژوهشگر دکتری • طارق یوسف، پژوهشگر علوم رایانه • مکسیم رومانوف، پژوهشگر ارشد •"
             footer:
-                since: 2022
-                customText: ""
+                text: ""
             sidebar:
                 emoji: false
                 avatar:
@@ -108,7 +107,6 @@ params:
 
     footer:
         since: 2022
-        customText: "TEST"
 
     dateFormat:
         published:
