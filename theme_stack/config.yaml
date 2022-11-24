@@ -10,36 +10,67 @@ languages:
         title: "The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History"
         weight: 1
         params:
-          description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
+            description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
+            sidebar:
+                emoji: ~
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_blue_white.png
     de:
         languageName: Deutsch
         title: "Die Entwicklung islamischer Gesellschaften (ca. 600–1600): algorithmische Analyse zur Sozialgeschichte"
         weight: 2
         params:
-          description: "Emmy Noether Nachwuchsgruppe • DFG • Universität Hambur, Afrika-Asien Institut • Team: Hamid Reza Hakimi, wiss. Mitarbeiter • Lisa Mischer, wiss. Mitarbeiterin • Tariq Yousef, wiss. Mitarbeiter • Maxim Romanov, Nachwuchsgruppenleiter"
-          sidebar:
-            avatar:
-              src: img/eis1600_SMALL_mix_red_white.png
+            description: "Emmy Noether Nachwuchsgruppe • DFG • Universität Hambur, Afrika-Asien Institut • Team: Hamid Reza Hakimi, wiss. Mitarbeiter • Lisa Mischer, wiss. Mitarbeiterin • Tariq Yousef, wiss. Mitarbeiter • Maxim Romanov, Nachwuchsgruppenleiter"
+            sidebar:
+                emoji: false
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_red_white.png
     ru:
         languageName: Русский
         title: "Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): через алгоритмический анализ к социальной истории"
         weight: 3
         params:
-          description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
+            description: "Молодежная исследовательская группа в рамках программы «Эмми Нётер» • Немецкий исследовательский фонд (DFG) • Гамбургский университет • Институт Африки и Азии • Состав • Хамид-Реза Хакими, исследователь-аспирант • Лиза Мишер, исследовательница-аспирантка • Тарик Йусуф, исследователь-специалист по информатике • Максим Романов, руководитель исследовательской группы"
+            sidebar:
+                emoji: false
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_grey_white.png
     ar:
         languageName: عربي
         languagedirection: rtl
-        title: "تطور المجتمعات الإسلامية (٦٠٠ - ١٦٠٠ مـ): من التحليل الحسابي إلى التاريخ الاجتماعي"
+        title: "تطور المجتمعات الإسلامية (بين ٦٠٠ و ١٦٠٠ للميلاد): من التحليل الحوسبي إلى التاريخ الاجتماعي"
         weight: 4
         params:
-          description: وصف تجريبي
+            description: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ • معهد آسيا وأفريقا • فريق العمل • حميد رضا حكيمي، باحث دكتوراه • ليزا ميشر، باحثة دكتوراه • طارق يوسف، باحث علوم حاسب • مكسيم رومانوف، الباحث الرئيسي"
+            sidebar:
+                emoji: false
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_green_white.png
     fa:
         languageName: فارسى
         languagedirection: rtl
-        title: "تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ مـ): از تحلیل الگوریتمی تا تاریخ اجتماعی"
+        title: "تکامل جوامع اسلامی (حدود ٦٠٠ - ١٦٠٠ م): از تحلیل الگوریتمی تا تاریخ اجتماعی"
         weight: 5
         params:
-          description: وصف تجريبي
+            description: "Description in Persian"
+            footer:
+                since: 2022
+                customText: "Add the footer text in Persian<br>"
+            sidebar:
+                emoji: false
+                avatar:
+                    enabled: true
+                    local: true
+                    src: img/eis1600_SMALL_mix_turquoise_white.png
+
 
 # Change it to your Disqus shortname before using
 disqusShortname:
@@ -68,7 +99,7 @@ params:
 
     footer:
         since: 2022
-        customText: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • <b>Team</b>: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI<br>"
+        customText: ""
 
     dateFormat:
         published:
@@ -76,6 +107,7 @@ params:
 
     sidebar:
         emoji: false
+        subtitle: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
         avatar:
             enabled: true
             local: true
