@@ -1,13 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700');
-@import url('https://fonts.googleapis.com/css2?family=Georgia:wght@400;700');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:wght@400;700');
 @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400');
 
 
 @mixin fonts {
-    font-family: "Libre Baskerville", var(--base-font-family);
-    [lang="ru"] & {
-        font-family: "Georgia", var(--base-font-family); 
-    }
+    font-family: "Gentium Plus", var(--base-font-family);
     [dir="rtl"] & {
         font-family: "Amiri", var(--base-font-family);
     }
