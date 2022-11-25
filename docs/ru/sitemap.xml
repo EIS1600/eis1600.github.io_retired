@@ -67,21 +67,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://eis1600.github.io/de/%C3%BCber-das-projekt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://eis1600.github.io/ar/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://eis1600.github.io/fa/%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D9%BE%D8%B1%D9%88%DA%98%D9%87/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ru"
                 href="https://eis1600.github.io/ru/%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5/"
                 />

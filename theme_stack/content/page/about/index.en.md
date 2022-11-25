@@ -58,7 +58,7 @@ The website’s structure is pragmatically simple and minimalistic. On the left 
 
 Our team works together to provide the same content in five different languages: English, German (Lisa Mischer), Russian (Maxim Romanov), Arabic (Tariq Yousef; Rida Yusuf Mustafa Ali), and Persian (Hamid Reza Hakimi). We work hard to ensure that the content of our website is identical in all languages.
 
-## Team
+## Research Group
 
 - Hamid Reza Hakimi, PhD Researcher
 - Lisa Mischer, PhD Researcher
