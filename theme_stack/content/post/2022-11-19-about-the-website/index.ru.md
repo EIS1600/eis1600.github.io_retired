@@ -2,8 +2,10 @@
 title: About the website
 date: '2022-11-19'
 slug: about-the-website
-categories: ["общее"]
-tags: ["описание"]
+categories:
+    - general
+tags:
+    - description
 description: ""
 image: bg_map.png
 math: ~

@@ -2,8 +2,8 @@
 title: Краткое описание проекта
 date: '2022-11-21'
 slug: description-of-the-project
-categories: ["общее"]
-tags: ["описание"]
+categories: ["general"]
+tags: ["description"]
 description: ""
 image: bg_map.png
 math: ~

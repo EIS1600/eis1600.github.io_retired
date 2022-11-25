@@ -2,8 +2,8 @@
 title: Project Beschreibung
 date: '2022-11-21'
 slug: description-of-the-project
-categories: ["Allgemein"]
-tags: ["Beschreibung"]
+categories: ["general"]
+tags: ["description"]
 description: ""
 image: bg_map.png
 math: ~
