@@ -1,5 +1,5 @@
 ---
-title: About the website
+title: О сайте
 date: '2022-11-19'
 slug: about-the-website
 categories:

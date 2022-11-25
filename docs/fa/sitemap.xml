@@ -58,6 +58,62 @@
                 href="https://eis1600.github.io/fa/categories/"
                 />
   </url><url>
+    <loc>https://eis1600.github.io/fa/tags/description/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eis1600.github.io/tags/description/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://eis1600.github.io/de/tags/description/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://eis1600.github.io/ru/tags/description/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://eis1600.github.io/ar/tags/description/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://eis1600.github.io/fa/tags/description/"
+                />
+  </url><url>
+    <loc>https://eis1600.github.io/fa/categories/general/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eis1600.github.io/categories/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://eis1600.github.io/de/categories/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://eis1600.github.io/ru/categories/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://eis1600.github.io/ar/categories/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://eis1600.github.io/fa/categories/general/"
+                />
+  </url><url>
     <loc>https://eis1600.github.io/fa/post/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -114,9 +170,6 @@
                 href="https://eis1600.github.io/fa/tags/"
                 />
   </url><url>
-    <loc>https://eis1600.github.io/fa/tags/%D8%B4%D8%B1%D8%AD/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eis1600.github.io/fa/p/description-of-the-project/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -144,9 +197,6 @@
                 hreflang="fa"
                 href="https://eis1600.github.io/fa/p/description-of-the-project/"
                 />
-  </url><url>
-    <loc>https://eis1600.github.io/fa/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eis1600.github.io/fa/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>

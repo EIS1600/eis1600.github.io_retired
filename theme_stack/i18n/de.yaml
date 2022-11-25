@@ -1,6 +1,35 @@
-general: 
+# CATEGORIES - DO NOT CHANGE
+
+general:
     other: "Allgemein"
 
-description: 
+team:
+    other: "team"
+
+sources:
+    other: "sources"
+
+methods:
+    other: "methods"
+
+concepts:
+    other: "concepts"
+
+findings:
+    other: "findings"
+
+experiments:
+    other: "experiments"
+
+workflows:
+    other: "workflows"
+
+events:
+    other: "events"
+
+
+# TAGS - ADDING NEW WHEN NECESSARY
+
+description:
     other: "Beschreibung"
 

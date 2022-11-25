@@ -1,6 +1,36 @@
-general: 
-    other: "General"
+# CATEGORIES - DO NOT CHANGE
 
-description: 
-    other: "Description"
+general:
+    other: "общее и разное"
+
+team:
+    other: "исследовательская группа"
+
+sources:
+    other: "источники"
+
+methods:
+    other: "методы"
+
+concepts:
+    other: "идеи и соображения"
+
+findings:
+    other: "результаты и находки"
+
+experiments:
+    other: "эксперименты"
+
+workflows:
+    other: "рабочие процессы"
+
+events:
+    other: "события"
+
+
+# TAGS - ADDING NEW WHEN NECESSARY
+
+
+description:
+    other: "описание"
 

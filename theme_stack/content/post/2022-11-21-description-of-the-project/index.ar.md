@@ -2,8 +2,8 @@
 title: وصف قصير للمشروع
 date: '2022-11-21'
 slug: description-of-the-project
-categories: ["عام"]
-tags: ["وصف"]
+categories: ["general"]
+tags: ["description"]
 description: ""
 image: bg_map.png
 math: ~
