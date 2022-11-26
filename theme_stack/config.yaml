@@ -4,11 +4,18 @@ theme: "hugo-theme-stack"
 paginate: 5
 title: Evolution of Islamic Societies (c. 600-1600)
 
+staticDir:
+  - static_files
+  - static_files/headers
+  - static_files/logos
+  - static_files/wp
+
 languages:
     en:
         languageName: English
         title: "The Evolution of Islamic Societies (c. 600-1600 CE)"
         weight: 1
+        staticDir2: static_files/_EN
         params:
             description: "Emmy Noether Junior Research Group • DFG • Universität Hamburg"
             footer:
@@ -23,6 +30,7 @@ languages:
         languageName: Deutsch
         title: "Die Entwicklung islamischer Gesellschaften (ca. 600–1600)"
         weight: 2
+        staticDir2: static_files/static_images_DE
         params:
             description: "Emmy Noether Nachwuchsgruppe • DFG • Universität Hamburg"
             footer:
@@ -37,6 +45,7 @@ languages:
         languageName: Русский
         title: "Эволюция мусульманских сообществ (600-1600 гг. н.э.)"
         weight: 3
+        staticDir2: static_files/static_images_RU
         params:
             description: "Исследовательская группа в рамках программы «Эмми Нётер» • Немецкий исследовательский фонд (DFG) • Гамбургский университет"
             footer:
@@ -53,6 +62,7 @@ languages:
         languagedirection: rtl
         title: "تطور المجتمعات الإسلامية (بين ٦٠٠ و ١٦٠٠ للميلاد)"
         weight: 4
+        staticDir2: static_files/static_images_AR
         params:
             description: "• مجموعة إيمي نوتر الفتية للأبحاث • مؤسسة الأبحاث الألمانية •  جامعة هامبورغ"
             footer:
@@ -68,6 +78,7 @@ languages:
         languagedirection: rtl
         title: "تکامل جوامع اسلامی (۱۶۰۰-۶۰۰ م)"
         weight: 5
+        staticDir2: static_files/static_images_FA
         params:
             description: "گروه پژوهشی امی-نوتر • بنیاد پژوهشی آلمان • دانشگاه هامبورگ"
             footer:

@@ -7,7 +7,7 @@ categories:
 tags:
     - description
 description: ""
-image: bg_map.png
+image: headers_binary1.png
 math: ~
 license: ~
 hidden: no

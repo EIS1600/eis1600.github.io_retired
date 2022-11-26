@@ -1,8 +1,0 @@
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_01.png)
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_02.png)
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_03.png)
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_04.png)
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_05.png)
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_06.png)
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_07.png)
-![](001_ProjectDescription_EN/001_ProjectDescription_EN_08.png)

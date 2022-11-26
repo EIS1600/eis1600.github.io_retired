@@ -19,7 +19,7 @@ menu:
       icon: flask1
     weight: -80
 title: Laboratorium
-
+image: headers_lab1.png
 ---
 
 Links zu experimentellen Tools und Ressourcen, die entweder innerhalb unseres Projekts entwickelt wurden oder eng damit verbunden sind.

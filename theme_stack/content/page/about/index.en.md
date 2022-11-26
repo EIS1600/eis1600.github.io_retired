@@ -7,7 +7,7 @@ date: "2022-11-22"
 description: "“The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History”"
 lastmod: "2022-11-22"
 comments: false
-image: bg_page.png
+image: headers_binary1.png
 
 links:
 

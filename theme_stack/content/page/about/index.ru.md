@@ -7,7 +7,7 @@ date: "2022-11-22"
 description: "«Эволюция мусульманских сообществ (ок. 600-1600 гг. н.э.): через алгоритмический анализ к социальной истории»"
 lastmod: "2022-11-22"
 comments: false
-image: bg_page.png
+image: headers_binary1.png
 
 links:
 
