@@ -5,7 +5,7 @@ slug: description-of-the-project
 categories: ["general"]
 tags: ["description"]
 description: ""
-image: bg_map.png
+image: headers_maghrib2.png
 math: ~
 license: no
 hidden: no
