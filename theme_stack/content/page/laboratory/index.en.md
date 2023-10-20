@@ -8,15 +8,16 @@ links:
   title: OpenITI GitHub
   website: https://github.com/OpenITI
   
+- description: al-Ṯurayyā, the Gazetteer and Geospatial Map of the early Islamic World.
+  image: ../Althurayya_UHH_COLORS.png
+  title: al-Ṯurayyā Project
+  website: https://althurayya.github.io/
+  
 - description: KITAB Project maintains an app on searcheable metadata of the OpenITI project.
   image: ../KITAB_UHH_DFG_COLORS.png
   title: OpenITI Metadata Application (KITAB)
   website: https://kitab-project.org/metadata/
   
-- description: al-Ṯurayyā, the Gazetteer and Geospatial Map of the early Islamic World.
-  image: ../Althurayya_UHH_COLORS.png
-  title: al-Ṯurayyā Project
-  website: https://althurayya.github.io/
   
 menu:
   main:
