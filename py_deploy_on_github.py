@@ -10,7 +10,6 @@ pathToWebsite = "./docs/"
 pathToFreshWebsite = "./theme_stack/public/"
 
 # REMOVING OLD
-
 shutil.rmtree(pathToWebsite)
 print("DOCS folder has been deleted.")
 
