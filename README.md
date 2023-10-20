@@ -20,6 +20,6 @@
 
 ## Notes
 
-- add "peer-reviewed" to keywords;
-- add information on TY current position;
+- [x] add "peer-reviewed" to keywords;
+- [x] add information on TY current position;
 - ...
