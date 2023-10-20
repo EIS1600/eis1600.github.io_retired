@@ -125,7 +125,7 @@ params:
 
     sidebar:
         emoji: false
-        subtitle: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Tariq Yousef, CS Researcher • Maxim Romanov, PI"
+        subtitle: "Emmy Noether Junior Research Group • DFG • Universität Hamburg, Afrika-Asien Institut • Team: Hamid Reza Hakimi, PhD Researcher • Lisa Mischer, PhD Researcher • Alicia Gonzalez Martinez, CS PostDoc Researcher • Maxim Romanov, PI"
         avatar:
             enabled: true
             local: true

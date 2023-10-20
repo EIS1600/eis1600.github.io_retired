@@ -33,4 +33,5 @@ events:
 
 description:
     other: "описание"
-
+    nlp: "natural language processing"
+    article: "article"

@@ -6,7 +6,7 @@ categories:
   - general
 tags:
   - description
-description: ""
+description: "This website documents the activities and progress of our project, which undertakes an innovative study of the development of the Islamic world through the computational analysis of Arabic chronicles and biographical collections, which—for the first time—are treated holistically as a unified corpus of historical information (c. 300 titles; 100 million words; c. 400,000 biographical records)."
 image: headers_binary1.png
 math: ~
 license: ~
@@ -14,7 +14,7 @@ hidden: no
 comments: yes
 ---
 
-This website documents the activities and progress of our project, which undertakes an innovative study of the development of the Islamic world through the computational analysis of Arabic chronicles and biographical collections, which—for the first time—are treated holistically as a unified corpus of historical information (c. 300 titles; 100 million words; c. 400,000 biographical records). The project is generously funded by the German Research Foundation (DFG) within the Emmy Noether Program ([Project #445975300](https://gepris.dfg.de/gepris/projekt/445975300?language=en)) and is hosted at the Institute of Africa and Asia of the University of Hamburg. The acronym of the project, **EIS1600**, is  idiosyncratically pronounced as “ice-sixteen-hundred”.
+The project is generously funded by the German Research Foundation (DFG) within the Emmy Noether Program ([Project #445975300](https://gepris.dfg.de/gepris/projekt/445975300?language=en)) and is hosted at the Institute of Africa and Asia of the University of Hamburg. The acronym of the project, **EIS1600**, is  idiosyncratically pronounced as “ice-sixteen-hundred”.
 
 The website’s structure is pragmatically simple and minimalistic. On the left side, you will find a short menu with the following options (if you access this website from your smartphone, the menu will be hiding under the button in the top right corner):
 

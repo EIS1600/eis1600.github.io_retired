@@ -4,7 +4,7 @@ date: '2022-11-21'
 slug: description-of-the-project
 categories: ["general"]
 tags: ["description"]
-description: ""
+description: "To overcome the complexity and sheer volume of medieval Arabic historical sources, as well as to analyze them in an effective and reproducible manner, EIS1600 employs a series of advanced computational methods of text analysis and data modeling that have been developed under the umbrella of digital humanities in recent years..."
 image: headers_maghrib2.png
 math: ~
 license: no
