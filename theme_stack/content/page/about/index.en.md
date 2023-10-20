@@ -5,29 +5,29 @@ aliases:
 - contact
 date: "2022-11-22"
 description: "“The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History”"
-lastmod: "2022-11-22"
+lastmod: "2023-10-20"
 comments: false
 image: headers_binary1.png
 
 links:
 
 - description: The project is generously funded through the Emmy Noether Program of the German Research Foundation.
-  image: EN_DFG_COLORS.png
+  image: ../EN_DFG_COLORS.png
   title: Deutsche Forschungsgemeinschaft (DFG)
   website: https://www.dfg.de/
 
 - description: The project is hosted at the Afrika-Asien Institut of Universität Hamburg, Hamburg, Germany
-  image: UHH_UHH_RED.png
+  image: ../UHH_UHH_RED.png
   title: Afrika-Asien Institut, Universität Hamburg
   website: https://kitab-project.org
 
 - description: KITAB provides a digital tool-box and a forum for discussions about Arabic texts. We wish to empower users to explore Arabic texts in completely new ways and to expand the frontiers of knowledge about one of the world’s largest and most complex textual traditions.
-  image: KITAB_UHH_DFG_COLORS.png
+  image: ../KITAB_UHH_DFG_COLORS.png
   title: KITAB Project, Aga Khan University International (London), Institute for the Study of Muslim Civilisations
   website: https://kitab-project.org
 
 - description: The Open Islamicate Texts Initiative (OpenITI) is a multi-institutional effort led by researchers at the Aga Khan University’s Institute for the Study of Muslim Civilisations in London, Roshan Institute for Persian Studies at the University of Maryland, College Park, and Universität Hamburg that aims to develop the digital infrastructure for the study of Islamicate cultures.
-  image: OpenITI_UHH_RED.png
+  image: ../OpenITI_UHH_RED.png
   title: The Open Islamicate Texts Initiative (OpenITI)
   website: https://openiti.org/about
 
@@ -60,10 +60,14 @@ Our team works together to provide the same content in five different languages:
 
 ## Research Group
 
+- Alicia Gonzalez Martinez, CS PostDoc Researcher
 - Hamid Reza Hakimi, PhD Researcher
 - Lisa Mischer, PhD Researcher
-- Tariq Yousef, CS Researcher
 - Maxim Romanov, PI
+
+### Former affiliates
+
+- Tariq Yousef, CS Researcher (until September 15, 2023)
 
 ## Important Links
 
