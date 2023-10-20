@@ -67,7 +67,7 @@ Our team works together to provide the same content in five different languages:
 
 ### Former affiliates
 
-- Tariq Yousef, CS Researcher (until September 15, 2023)
+- Tariq Yousef, CS Researcher (until September 15, 2023); Tariq took a position of Assistant professor at the  [University of Southern Denmark](https://portal.findresearcher.sdu.dk/en/persons/yousef).
 
 ## Important Links
 

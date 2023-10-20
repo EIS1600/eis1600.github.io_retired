@@ -1,6 +1,6 @@
 # eis1600.github.io
 
-Project website
+## Project website
 
 - the website data is in the subfolder `./theme_stack/`
 
@@ -16,3 +16,10 @@ Project website
   - `post` :: create a subfolder using the same pattern as those that are already there (starting with the date! The post will be made available on that date; using date from the future will make the post published on the future date (I think...)); inside the folder one must create `index.en.md` (the easiest might be to copy-paste); changing `en` to other languages to make translations (`de`, `ar`, `fa`, `ru`, etc.); 
 
 - to edit tags and categories: `./theme_stack/i18n/` --- language-specific files;
+
+
+## Notes
+
+- add "peer-reviewed" to keywords;
+- add information on TY current position;
+- ...

@@ -36,4 +36,5 @@ nlp:
     other: "natural language processing"
 article:
     other: "article"
-
+peer-reviewed:
+    other: "peer-reviewed"

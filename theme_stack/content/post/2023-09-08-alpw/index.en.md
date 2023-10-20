@@ -7,6 +7,7 @@ categories:
   - methods
 tags:
   - article
+  - peer-reviewed
 description: "Our paper has been accepted and published in the “Proceedings of the Ancient Language Processing Workshop” (8 September, 2023). Paper is downloadable together with other proceedings of the workshop."
 image: headers_binary2.png
 math: ~
