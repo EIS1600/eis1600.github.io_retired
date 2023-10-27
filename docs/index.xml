@@ -12,8 +12,9 @@
         <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
         
         <guid>https://eis1600.github.io/p/enchancing-soa-nlp-models-for-classical-arabic/</guid>
-        <description>&lt;img src="https://eis1600.github.io/headers_binary2.png" alt="Featured image of post Article—“Enhancing State-of-the-Art NLP Models for Classical Arabic”" /&gt;&lt;p&gt;Our paper has been accepted and published in the “Proceedings of the Ancient Language Processing Workshop” (8 September, 2023).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt; Like many other historical languages, Classical Arabic is hindered by the absence of adequate training datasets and accurate &amp;ldquo;off-the-shelf&amp;rdquo; models that can be readily used in processing pipelines. In this paper, we discuss our ongoing work to develop and train deep learning models specially designed to manage various tasks related to classical Arabic texts. We specifically concentrate on Named Entity Recognition, classification of person relationships, toponym classification, detection of onomastic section boundaries, onomastic element classification, as well as date recognition and classification. Our efforts aim to confront the difficulties tied to these tasks and to deliver effective solutions for analyzing classical Arabic texts. Though this work is still under development, the preliminary results presented in the paper suggest excellent to satisfactory performance of the fine-tuned models, successfully achieving the intended objectives for which they were trained.&lt;/p&gt;
+        <description>&lt;img src="https://eis1600.github.io/headers_binary2.png" alt="Featured image of post Article—“Enhancing State-of-the-Art NLP Models for Classical Arabic”" /&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Like many other historical languages, Classical Arabic is hindered by the absence of adequate training datasets and accurate “off-the-shelf” models that can be readily used in processing pipelines. In this paper, we discuss our ongoing work to develop and train deep learning models specially designed to manage various tasks related to classical Arabic texts. We specifically concentrate on Named Entity Recognition, classification of person relationships, toponym classification, detection of onomastic section boundaries, onomastic element classification, as well as date recognition and classification. Our efforts aim to confront the difficulties tied to these tasks and to deliver effective solutions for analyzing classical Arabic texts. Though this work is still under development, the preliminary results presented in the paper suggest excellent to satisfactory performance of the fine-tuned models, successfully achieving the intended objectives for which they were trained.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Information on the event: &lt;a class=&#34;link&#34; href=&#34;https://www.ancientnlp.com/alp2023/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.ancientnlp.com/alp2023/&lt;/a&gt;;&lt;/li&gt;
@@ -21,31 +22,23 @@
     &gt;https://www.ancientnlp.com/alp2023/accepted_papers/&lt;/a&gt;;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;BibTeX citation:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;@inproceedings{eis1600_enchancingNLPmodels_2023,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  title = &amp;#34;Enhancing State-of-the-Art NLP Models for Classical Arabic&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  author = &amp;#34;Tariq Yousef and Lisa Mischer and Hakimi, {Hamid Reza} and Maxim Romanov&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  year = &amp;#34;2023&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  language = &amp;#34;English&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  isbn = &amp;#34;978-954-452-087-8&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  pages = &amp;#34;160--169&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  booktitle = &amp;#34;Ancient Language Processing Workshop&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;pre&gt;&lt;code&gt;@inproceedings{eis1600_enchancingNLPmodels_2023,
+  title = &amp;quot;Enhancing State-of-the-Art NLP Models for Classical Arabic&amp;quot;,
+  author = &amp;quot;Tariq Yousef and Lisa Mischer and Hakimi, {Hamid Reza} and Maxim Romanov&amp;quot;,
+  year = &amp;quot;2023&amp;quot;,
+  language = &amp;quot;English&amp;quot;,
+  isbn = &amp;quot;978-954-452-087-8&amp;quot;,
+  pages = &amp;quot;160--169&amp;quot;,
+  booktitle = &amp;quot;Ancient Language Processing Workshop&amp;quot;,
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Yousef, Tariq, Lisa Mischer, Hamid Reza Hakimi, and Maxim Romanov. “Enhancing State-of-the-Art NLP Models for Classical Arabic.” In &lt;em&gt;Ancient Language Processing Workshop&lt;/em&gt;, 160–69, 2023.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
         </item>
         <item>
         <title>About</title>
@@ -89,6 +82,19 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;important-links&#34;&gt;Important Links&lt;/h2&gt;
 &lt;p&gt;Below you can find links to our funder, host, and closely affiliated projects.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Publications</title>
+        <link>https://eis1600.github.io/publications/</link>
+        <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://eis1600.github.io/publications/</guid>
+        <description>&lt;img src="https://eis1600.github.io/headers_binary2.png" alt="Featured image of post Publications" /&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Yousef, Tariq, Lisa Mischer, Hamid Reza Hakimi, and Maxim Romanov. “Enhancing State-of-the-Art NLP Models for Classical Arabic.” In &lt;em&gt;Ancient Language Processing Workshop&lt;/em&gt;, 160–69, 2023.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
         </item>
         <item>

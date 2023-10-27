@@ -1,0 +1,20 @@
+---
+aliases:
+- references
+date: "2022-11-22"
+description: "Publications of the Project"
+lastmod: "2023-10-20"
+comments: false
+image: headers_binary2.png
+bibliography: [../../../references.bib]
+csl: ../../../chicago17-fullnote-bibliography-short-title-subsequent.csl
+nocite: '@*'
+
+menu:
+  main:
+    params:
+      icon: user
+    weight: -70
+title: Publications
+
+---

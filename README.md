@@ -17,6 +17,10 @@
 
 - to edit tags and categories: `./theme_stack/i18n/` --- language-specific files;
 
+## References
+
+- they work only in Rmd files, not in md files; so, make sure that all the page and post files are `*.Rmd`, if a citation is needed.
+
 
 ## Notes
 

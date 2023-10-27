@@ -1,5 +1,10 @@
 ---
+title: "EIS1600 Project"
+author: "Maxim Romanov, Alicia Gonzalez, Hamid Reza Hakimi, Lisa Mischer"
 site: blogdown:::blogdown_site
+description: "A website of EIS1600, a DFG-funded Emmy Noether Project project at the Asien-Afrika Institut, Universität Hamburg."
+link-citations: yes
+colorlinks: yes
 ---
 
 <!-- This file is for blogdown only. Please do not edit it. -->
